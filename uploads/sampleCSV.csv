@@ -1,0 +1,5 @@
+name.firstName ,name.lastName ,age ,address.line1 ,address.line2 ,address.city ,address.state,gender
+Shiv,Prasad,30,A-532,A wing,Pune,Maharashtra,male
+Parth,Jare,29,B-321,B Wing,Pune,Maharashtra,male
+Druv,Jai,21,B-213,B Wing,Pune,Maharashtra,male
+Sai,Prasad,40,B-213,B Wing,Pune,Maharashtra,male

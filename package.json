@@ -1,0 +1,31 @@
+{
+  "name": "csvtojson",
+  "version": "1.0.0",
+  "description": "this is code to convert csv file to nested json and store it in postgresql db tables",
+  "keywords": [
+    "csvtojson",
+    "csv",
+    "json",
+    "node",
+    "postgres"
+  ],
+  "license": "ISC",
+  "author": "Pratik Jare",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "multer": "^2.0.1",
+    "nodemon": "^3.1.10",
+    "path": "^0.12.7",
+    "pg": "^8.16.0"
+  }
+}
